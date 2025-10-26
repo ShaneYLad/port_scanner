@@ -41,7 +41,7 @@ git clone https://github.com/ShaneYLad/port-scanner.git
 
 ### 2. Navigate to folder
 ```bash
-cd simple-port-scanner-cli
+cd port-scanner
 ```
 ### 3. Run the script
 ```py
