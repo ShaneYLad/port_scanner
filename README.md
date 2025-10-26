@@ -36,12 +36,12 @@ A beginner-friendly, Python-powered command-line tool to scan open ports on a ta
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/ShaneYLad/port-scanner.git
+git clone https://github.com/ShaneYLad/port_scanner.git
 ```
 
 ### 2. Navigate to folder
 ```bash
-cd port-scanner
+cd port_scanner
 ```
 ### 3. Run the script
 ```py
